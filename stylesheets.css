@@ -1,0 +1,65 @@
+
+body {
+    background-image: url('bg2.jpg');
+    background-size: cover;
+    background-position: fit;
+    background-repeat: no-repeat;
+}
+
+
+
+.advertisement {
+    background-color: rgba(255, 255, 255, 0.8); 
+    padding: 10px; 
+    margin-top: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    width: 80%; 
+    max-width: 90%; 
+    margin-left: auto;
+    margin-right: auto;
+}
+.advertisement h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.advertisement p {
+    color: #666;
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+.advertisement ul {
+    color: #666;
+    font-size: 16px;
+    margin-bottom: 20px;
+    padding-left: 20px;
+}
+.advertisement ul li {
+    margin-bottom: 10px;
+}
+.advertisement a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+.why-choose-us {
+    background-color: rgba(255, 255, 255, 0.8); 
+    padding: 7px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+.why-choose-us h3 {
+    color: #333;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+.why-choose-us ul {
+    color: #666;
+    font-size: 16px;
+    padding-left: 20px;
+}
+.why-choose-us ul li {
+    margin-bottom: 10px;
+}
